@@ -1,6 +1,6 @@
 {
   "name": "saybye",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cli will say bye",
   "main": "index.js",
   "scripts": {
