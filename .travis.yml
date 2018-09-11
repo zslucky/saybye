@@ -1,5 +1,9 @@
 language: node_js
 node_js:
   - 8.11.4
-install:
+script:
   - npm run echo
+deploy:
+  provider: npm
+  email: $NPM_EMAIL
+  api_key: $NPM_AUTH_TOKEN

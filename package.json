@@ -1,10 +1,10 @@
 {
   "name": "saybye",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "cli will say bye",
   "main": "index.js",
   "scripts": {
-    "echo": "echo $SOMEONE"
+    "echo": "echo $SOMEONE",
   },
   "repository": {
     "type": "git",
